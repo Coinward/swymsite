@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+#WIN BITCOIN BY SAVING BITCOIN 
 
-You can use the [editor on GitHub](https://github.com/Coinward/swymsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Save your Bitcoin with Swym and earn a chance to win up to 10BTC. All savings are deposited with trusted lending partner Blockfi earning up to 6% APY. A few lucky Swym savers win the Bitcoin accrued from everyone's savings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jump In
 
-### Markdown
+#HOW SWYM WORKS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Deposit
 
-```markdown
-Syntax highlighted code block
+Download the Swym app and depsoit as little as one satoshi. 
 
-# Header 1
-## Header 2
-### Header 3
+##Save
 
-- Bulleted
-- List
+Save your Bitcoin as liquid cash and withdraw at any time.
 
-1. Numbered
-2. List
+##Win
 
-**Bold** and _Italic_ and `Code` text
+Save for one full month and have a chance to win up to 10 BTC.
 
-[Link](url) and ![Image](src)
-```
+#JOIN THE POOL PARTY
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Swym users are currently saving a total of 21 Bitcoin this month. Dip your feet in the pool and start saving as little as one satoshi.
 
-### Jekyll Themes
+#HAVE FUN WHILE HODLING
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coinward/swymsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Let's be real, just holding your Bitcoin can be boring after a while, but what's more fun than winning Bitcoin? Enjoy the upside of winning jackpot prizes simply while saving. 
 
-### Support or Contact
+#WE KEEP YOUR BITCOIN SECURE
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All Bitcoin is deposited with our trusted lending partner Blockfi and via Multi-Sig with unchained capital.
+
+#THE POOL PARTY IS JUST GETTING STARTED 
+ 
+JUMP IN!
